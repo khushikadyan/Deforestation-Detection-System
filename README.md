@@ -67,12 +67,6 @@ The trained model is evaluated on a held-out test set using the following metric
 
 
 ---
-
-## 🌍 Deployment
-
-### Hugging Face Space 🚀  
-Visit: [**Deforestation Detection on Hugging Face**](https://huggingface.co/spaces/ojasrohatgi/Deforestation-Detection)
-
 Features:
 - Interactive Leaflet map to select coordinates
 - Year input to analyze temporal deforestation
@@ -89,7 +83,7 @@ The backend takes user inputs (`lat, lon, year`), queries GEE for imagery, prepr
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/Ojas-Rohatgi/Deforestation-Detection](https://github.com/Ojas-Rohatgi/Deforestation-Detection)
+git clone [https://github.com/khushi-kadyan/Deforestation-Detection](https://github.com/khushi-kadyan/Deforestation-Detection)
 cd Deforestation-Detection
 
 ```
@@ -129,11 +123,6 @@ This will launch a web interface where you can:
 * Fetch satellite imagery and get prediction overlays
 
 ---
-
-## ☁️ Deployment
-
-This app is live at:
-🔗 [Hugging Face Spaces – ojasrohatgi/Deforestation-Detection](https://huggingface.co/spaces/ojasrohatgi/Deforestation-Detection)
 
 ### Features:
 
