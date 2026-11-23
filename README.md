@@ -169,23 +169,6 @@ This app is live at:
 
 ---
 
-## 🙋‍♂️ Author
-
-**Ojas Rohatgi**
-Final Year B.Tech – Computer Science (Data Science & AI)
-SRM University, Sonepat, Haryana, India
-
-* 🔗 GitHub: [Ojas-Rohatgi](https://github.com/Ojas-Rohatgi)
-* 🔗 Hugging Face: [ojasrohatgi](https://huggingface.co/ojasrohatgi)
-
----
-
-## 📜 License
-
-This project is licensed under the **Apache License**.
-See the [LICENSE](LICENSE) file for full license text.
-
----
 
 ## ⭐️ Support This Project
 
